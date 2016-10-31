@@ -922,6 +922,11 @@ sage_pay:
 sallie_mae:
   login: TEST0
 
+# Working credentials, no need to replace
+sberbank:
+  userName: X
+  password: Y
+
 secure_net:
   login: X
   password: Y
